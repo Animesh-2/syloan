@@ -1,8 +1,9 @@
 import React,{useState,useEffect} from 'react';
-import { Box, Heading ,Image,Flex,Text,Button} from '@chakra-ui/react'
+import { Box, Heading ,Image,Flex,Text,Button, Divider} from '@chakra-ui/react'
 import Navbar from "../component/Navbar";
 import styles from "./Home.module.css"; 
 import Steps from "../component/Stepper";
+import Dividers from "../component/Dividers";
 export default function Home(){
 
         const [scrollY, setScrollY] = useState(0);
@@ -109,13 +110,47 @@ your back.</Heading>
 </Box> */}
 <Box w="100%" bg="#fbfbfb" height="100vh" position="relative" p="4em 2em">
   <Text textAlign={"center"} fontWeight="bold" color="#FFC436 ">How it works</Text>
-  <Heading textAlign={"center"}>We Help You To Find The <span className={styles.gradienttext}>Cheapest</span>  Loan</Heading>
+  <Heading mb="0.2em" textAlign={"center"} fontSize="3em" >We Help You To Find <span className={styles.gradienttext}>The</span> </Heading>
+  <Heading mb="0.4em" textAlign={"center"} fontSize="3em"><span className={styles.gradienttext}>Cheapest</span>  Loan</Heading>
  <Flex justify={"space-between"} w="100%">
  <Steps w="65%"/>
  <Box w="40%" p= "2em">
   <Image w="90%" m="auto" src="steps.png"></Image>
   </Box>
- </Flex>
+  </Flex>
+
+  <Box  w="100%" bg="#fbfbfb" height="100vh" position="relative" p="4em 2em">
+  <Text textAlign={"center"} fontWeight="bold" color="#FFC436 ">Our Services</Text>
+  <Heading mb="0.1em" textAlign={"center"} fontSize="3em" >What Can<span className={styles.gradienttext}> We Do</span> </Heading>
+  <Heading textAlign={"center"}  fontSize="3em">For Your Business</Heading>
+  <Text textAlign={"center"} mb="0.4em" color="grey" fontSize="1EM">we are on a 
+mission
+to transform how business pays
+for large invoices,<br></br>
+from SAS
+and cloud to
+professional and marketing
+expenses
+</Text>
+<Dividers/>
 </Box>
+<Box  w="100%" bg="#fbfbfb" height="100vh" position="relative" p="4em 2em">
+  <Text textAlign={"center"} fontWeight="bold" color="#FFC436 ">Our Features</Text>
+  <Heading mb="0.1em" textAlign={"center"} fontSize="3em" >What Should We<span className={styles.gradienttext}> Help</span> You With ?  </Heading>
+  <Heading textAlign={"center"}  fontSize="3em">For Your Business</Heading>
+  <Text textAlign={"center"} mb="0.4em" color="grey" fontSize="1EM">we are on a 
+mission
+to transform how business pays
+for large invoices,<br></br>
+from SAS
+and cloud to
+professional and marketing
+expenses
+</Text>
+<Dividers/>
+</Box>
+
+</Box>
+
 </Box>
 )}

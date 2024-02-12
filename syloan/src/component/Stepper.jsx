@@ -36,7 +36,7 @@ const steps = [
   
     
     return (
-      <Stepper mt="8" index={index} colorScheme="purple" orientation='vertical' height='400px' gap='0'>
+      <Stepper mt="8" p="2em"index={index} colorScheme="purple" orientation='vertical' height='400px' gap='0'>
         {steps.map((step, i) => (
           <Step key={i}>
             <StepIndicator>

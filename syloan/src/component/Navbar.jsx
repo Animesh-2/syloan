@@ -3,7 +3,7 @@ import {Flex,Box,Heading,Button,Link,Spacer,Image, ButtonGroup} from '@chakra-ui
 export default function Navbar(){
     return(<Flex align={"center"} justify={"space-around"} p="0.5em 0em">
         <Flex align={"center"}>
-         <Image w="2em "src="logo.png"/>
+         <Image w="2.5em "src="logo.png"/>
          <Link>Syloan</Link>
        </Flex>
        
