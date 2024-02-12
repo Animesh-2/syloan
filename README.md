@@ -43,35 +43,18 @@ A Collaborative project built by a team of 5 executed in 4 days.
 
 **Loan Types Page**
 
-![Logo]()
+![Logo](https://github.com/Animesh-2/syloan/blob/main/syloan/src/Screenshot%20(173).png)
 
-**Products Details Page**
+**Application Page**
 
-![Logo](https://images2.imgbox.com/5c/5a/ALM6fjk4_o.jpg)
-
-**WishList Page**
-
-![Logo](https://images2.imgbox.com/a3/f8/mt96qGyy_o.jpg)
-
-**Cart Page**
-
-![Logo](https://images2.imgbox.com/5c/84/veOWEFoY_o.jpg)
-
-**Address Page**
-
-![Logo](<Screenshot (94).png>)
-
-**Payment Page**
-![Logo](<Screenshot (96).png>)
+![Logo](https://github.com/Animesh-2/syloan/blob/main/syloan/src/Screenshot%20(174).png)
 
 
 ## Contributors  😇
 
 
-- 👤 [Rupan Das](https://www.github.com/Rupan510)
-- 👤 [Divyam Rauthan](https://www.github.com/DivYam062)
-- 👤 [Aman Garg](https://www.github.com/AG7464)
-- 👤 [Pankaj Khatri](https://www.github.com/MrPK4699)
+- 👤 [Narsimma Yemul](https://github.com/Narsimmayemul)
+- 👤 [Rishita Mukherjee](https://github.com/RiiXXD)
 - 👤 [Animesh Singh](https://www.github.com/Animesh-2)
 
 
