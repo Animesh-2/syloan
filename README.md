@@ -38,8 +38,9 @@ A Collaborative project built by a team of 5 executed in 4 days.
 ## Snap Shots 📷
 
 **Home Page**
+![image](https://github.com/Animesh-2/syloan/assets/142569138/fa3043f8-918a-4d96-a613-da26088de305)
+![image](https://github.com/Animesh-2/syloan/assets/142569138/fbddaa54-5818-4d70-bfbf-27e854b2d889)
 
-![Logo]()
 
 **Loan Types Page**
 
