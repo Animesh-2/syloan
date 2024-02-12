@@ -22,7 +22,7 @@ A Collaborative project built by a team of 5 executed in 4 days.
 - JAVASCRIPT
 - REACT
 
-**MaterialUI & ChakraUI as an External Libraries has been used.**
+**MaterialUI & ChakraUI as External Libraries has been used.**
 
 
 
