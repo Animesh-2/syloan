@@ -14,9 +14,12 @@
 }
 .gradienttext {
   background-image: linear-gradient(
-    to top,
-    #30cfd0 0%,
-    #330867 100%
+    to left,
+    #5fbdff,
+    #20a1fb,
+    #0084f5,
+    #0064e9,
+    #1640d6
   ); /* Define your gradient */
   -webkit-background-clip: text; /* Apply the gradient as text color */
   -webkit-text-fill-color: transparent; /* Hide the original text color */

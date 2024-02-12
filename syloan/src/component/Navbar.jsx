@@ -1,9 +1,9 @@
 import React from "react";
-import {Flex,Box,Heading,Button,Link,Spacer} from '@chakra-ui/react'
+import {Flex,Box,Heading,Button,Link,Spacer,Image, ButtonGroup} from '@chakra-ui/react'
 export default function Navbar(){
     return(<Flex align={"center"} justify={"space-around"} p="0.5em 0em">
         <Flex align={"center"}>
-         <Heading>Logo</Heading>
+         <Image w="2em "src="logo.png"/>
          <Link>Syloan</Link>
        </Flex>
        
@@ -16,8 +16,11 @@ export default function Navbar(){
        </Flex>
        {/* <Spacer /> */}
        <Flex w="15%" align="center" justify="space-between">
-        <Button>Login</Button>
-        <Button>Register</Button>
+       <ButtonGroup>
+       <Button variant='ghost' color="white">Login</Button>
+        <Button variant='outline' borderColor="#52dffe" borderRadius="1.5em" color="#52dffe">Register</Button>
+
+       </ButtonGroup>
        </Flex>
     </Flex>
 )}
