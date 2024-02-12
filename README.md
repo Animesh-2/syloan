@@ -1,18 +1,18 @@
 
-# Syloan - (Clone)
+# Syloan
 
 Myntra is an e-commerce website where people can buy from wide range of products and has an interactive UI. 
 
 A Collaborative project built by a team of 5 executed in 4 days.
 
 
-![Logo]()
+![Logo](https://github.com/Animesh-2/syloan/blob/main/syloan/src/original-5a9164e0a400be5a133c5222c1c72ded.png)
 
 
 ## Demo  🎥
-- Video Link:- [User Manual](https://youtu.be/b2xNnRaI3_M)
+- Video Link:- [User Manual]()
 
-- Deployed Link:- [Enjoy the Experience](https://calm-malasada-c0860b.netlify.app)
+- Deployed Link:- [Enjoy the Experience]()
 
 
 ## Tech Stack 💻
@@ -20,38 +20,30 @@ A Collaborative project built by a team of 5 executed in 4 days.
 - HTML5
 - CSS3
 - JAVASCRIPT
+- REACT
 
-**No External Libraries has been used.**
+**MaterialUI & ChakraUI as an External Libraries has been used.**
 
 
 
 ## Features ✨
-
-- Authentication process undercover with Local Storage.
-- Pagination for each category with working mega dropdown.
-- Dynamic Products, Wishlist page using locally created json data.
-- All the product description, prices, discounts, are updated in real time.
+- An intuitive online form that allows users to apply for loans directly through the website.
+- A feature for uploading necessary documents and identification for loan application processing.
 
 ## Responsibilities 💪
 
-- Landing page UI consisting of megadrown navbar, carasouel, animated image cards and authentications i.e.; Login & Register 
-- Paginations for each sub-sections
-- Implementation of local storage on authentications
-- Address, payment, checkout done with using local storage concepts and raw css (No external libraries has been implemented for the same to have a effect !!)
+- Offerings might include personal loans, home loans, auto loans, and perhaps small business loans, each with detailed information.
+- Options for users to customize their loan amount and terms, such as interest rates and repayment periods, based on their eligibility.
 
 ## Snap Shots 📷
 
 **Home Page**
 
-![Logo](https://images2.imgbox.com/c0/b8/9A3OPB3n_o.jpg)
+![Logo]()
 
-**Mega DropDown**
+**Loan Types Page**
 
-![Logo](https://images2.imgbox.com/fc/50/uwwSDxEF_o.jpg)
-
-**Products Page**
-
-![Logo](https://images2.imgbox.com/b1/79/Ajcc0vIR_o.jpg)
+![Logo]()
 
 **Products Details Page**
 
